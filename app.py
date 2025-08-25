@@ -279,4 +279,4 @@ else:
 
 # === Footer ===
 st.markdown("---")
-st.caption("🌿 Plant Disease Classifier | Built with Streamlit & TensorFlow | Enjoy by Smile Bey")
+st.caption("🌿 Plant Disease Classifier | Built with Streamlit & TensorFlow | Enjoy by Smile Bey")"# Cache break: $(date)" 
